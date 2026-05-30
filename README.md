@@ -1,8 +1,11 @@
+# Application
+To run the application, follow the steps below:
 ```
-npm install
-npm run dev
+pnpm i
+pnpm run dev
 ```
 
+Open browser:
 ```
 open http://localhost:3000
 ```
@@ -17,4 +20,9 @@ npx drizzle-kit generate
 To apply migrations, run the following command:
 ```
 npx drizzle-kit migrate
+```
+
+Open drizzle-kit studio:
+```
+npx drizzle-kit studio
 ```
