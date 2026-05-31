@@ -26,3 +26,8 @@ Open drizzle-kit studio:
 ```
 npx drizzle-kit studio
 ```
+
+Open drizzle-kit studio with verbose logging:
+```
+pnpm drizzle-kit studio --verbose
+```
